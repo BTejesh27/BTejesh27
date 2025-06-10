@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Venkata Satya Tejesh Budde
 
 🎓 **B.Tech in Computer Science and Design**  
-📍 SRKR Engineering College | 2022 – 2026
+📍 SRKR Engineering College | 2022 – 2026  
 
 ---
 
@@ -13,61 +13,76 @@ I’m a passionate full-stack developer and an open-source enthusiast. With hand
 
 ## 💼 Experience
 
-### 🔹 **Software Intern @ Bluconn** (Jul 2024 – Present)
+### 🔹 Software Intern @ Bluconn (Jul 2024 – Present)
 - Built responsive UI with **React** and backend logic with **NestJS**
 - Implemented secure authentication with **AWS Cognito**, emails via **AWS SES**
 - Integrated **Google Geofence** for real-time tracking features
 - Hands-on with state management, lifecycle, and third-party React libraries
 
-### 🔹 **Developer @ SRKR College Website**
+### 🔹 Developer @ SRKR College Website
 - Maintained and upgraded college website for NAAC & NBA inspections
 - Contributed to academic resources and internal course delivery tools
 
-### 🔹 **Organizer & Developer - Web Tech Hackathon (Aug 2024)**
+### 🔹 Organizer & Developer – Web Tech Hackathon (Aug 2024)
 - Organized 18-hour hackathon for 100+ participants
 - Developed app to evaluate participant performance across multiple rounds
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-### Languages:
+### 👨‍💻 Programming Languages
 `C` | `Python` | `Java` | `Go`
 
-### Web & Backend:
+### 🌐 Web & Backend
 `HTML` | `CSS` | `JavaScript` | `PHP` | `SQL` | `Node.js` | `NestJS` | `React.js` | `TypeScript`
 
-### Databases:
+### 🛢️ Databases
 `MySQL` | `PostgreSQL`
 
-### Tools & Tech:
+### 🔧 Tools & Tech
 `VS Code` | `Git` | `AWS Cognito` | `AWS Lambda` | `AWS SES` | `Google Geofence` | `MUI` | `Blender` | `Maya` | `Machine Learning`
 
 ---
 
 ## 🌟 Featured Projects
 
-🔬 [**MAGICALDB**](http://www.manjarilab.com/databases/magicaldb)  
-> Gene interaction platform for University of Hyderabad | 23M+ interactions | PHP, MySQL, Cytoscape
+🔬 [**MAGICALDB**](http://www.manjarilab.com/databases/magicaldb) – Gene interaction platform (23M+ interactions)
 
-🎓 [**FDP on Design Thinking**](https://srkrec.edu.in/atalfdp2023/)  
-> Web app for faculty training program | Front-end with modern UI
+🎓 [**FDP on Design Thinking**](https://srkrec.edu.in/atalfdp2023/) – Faculty training platform
 
-🎾 [**Bhimavaram Tennis Tournament**](https://bhimavaramtennis.com/)  
-> Real-time score updates and match management system
+🎾 [**Bhimavaram Tennis Tournament**](https://bhimavaramtennis.com/) – Tournament scheduling and live score updates
 
-📘 [**Learning Guide for Students**](https://csd27.ct.ws/CSD)  
-> Secure, centralized academic platform with syllabus, notes, and modules
+📘 [**Learning Guide for Students**](https://csd27.ct.ws/CSD) – Academic resource portal
 
-🎮 [**Free Fire College Fest Website**](http://srkrec.edu.in/sigma/freefire24)  
-> Full-featured fest registration and game details site
+🎮 [**Free Fire College Fest Website**](http://srkrec.edu.in/sigma/freefire24) – Fest registration and event hub
 
 ---
 
 ## 📜 Certificates
 
-- HTML & CSS (Smart India Hackathon - 24hrs)
+- HTML & CSS – Smart India Hackathon (24 hrs)
 - Basics of Java
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BTejesh27&show_icons=true&theme=tokyonight" alt="Tejesh's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BTejesh27&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BTejesh27&theme=monokai&no-frame=true&no-bg=true&margin-w=10" />
+</p>
 
 ---
 
