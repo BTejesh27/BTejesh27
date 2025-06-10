@@ -9,7 +9,7 @@
 
 I’m a passionate full-stack developer and an open-source enthusiast. With hands-on experience in building web applications, organizing tech events, and contributing to impactful projects, I enjoy translating complex problems into elegant, user-friendly solutions. I'm currently interning at **Bluconn**, where I'm building secure and scalable applications using **React**, **NestJS**, and **AWS**.
 
----
+
 ---
 
 ## 🌟 Featured Projects
@@ -58,7 +58,7 @@ I’m a passionate full-stack developer and an open-source enthusiast. With hand
 ### 🔧 Tools & Tech
 `VS Code` | `Git` | `AWS Cognito` | `AWS Lambda` | `AWS SES` | `Google Geofence` | `MUI` | `Blender` | `Maya` | `Machine Learning`
 
-
+---
 
 ## 📜 Certificates
 
