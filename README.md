@@ -126,13 +126,14 @@ const tejesh = {
 
 ---
 
-## 💼 **Professional Experience**
+## 💼 <span style="color:#00FFFF;">Professional Experience</span>
 
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="NestJS" alt="NestJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" title="React" alt="React" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nestjs.svg" title="NestJS" alt="NestJS" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" title="AWS" alt="AWS" width="40" height="40"/>
 </div>
+
 
 ### 🔹 **Software Intern @ Bluconn** *(Jul 2024 – Present)*
 ```yaml
