@@ -8,7 +8,6 @@
   <a href="mailto:bvst27@gmail.com"><img src="https://img.shields.io/badge/Gmail-bvst27@gmail.com-red?style=flat&logo=gmail"></a>
   <a href="https://linkedin.com/in/venkata-satya-tejesh-budde-b7b460247"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
   <a href="https://github.com/BTejesh27"><img src="https://img.shields.io/github/followers/BTejesh27?label=Follow&style=social"></a>
-  <img src="https://komarev.com/ghpvc/?username=BTejesh27&style=flat-square" alt="profile views" />
 </p>
 
 ---
