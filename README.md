@@ -10,6 +10,21 @@
 I’m a passionate full-stack developer and an open-source enthusiast. With hands-on experience in building web applications, organizing tech events, and contributing to impactful projects, I enjoy translating complex problems into elegant, user-friendly solutions. I'm currently interning at **Bluconn**, where I'm building secure and scalable applications using **React**, **NestJS**, and **AWS**.
 
 ---
+---
+
+## 🌟 Featured Projects
+
+🔬 [**MAGICALDB**](http://www.manjarilab.com/databases/magicaldb) – Gene interaction platform (23M+ interactions)
+
+🎓 [**FDP on Design Thinking**](https://srkrec.edu.in/atalfdp2023/) – Faculty training platform
+
+🎾 [**Bhimavaram Tennis Tournament**](https://bhimavaramtennis.com/) – Tournament scheduling and live score updates
+
+📘 [**Learning Guide for Students**](https://csd27.ct.ws/CSD) – Academic resource portal
+
+🎮 [**Free Fire College Fest Website**](http://srkrec.edu.in/sigma/freefire24) – Fest registration and event hub
+
+---
 
 ## 💼 Experience
 
@@ -43,21 +58,7 @@ I’m a passionate full-stack developer and an open-source enthusiast. With hand
 ### 🔧 Tools & Tech
 `VS Code` | `Git` | `AWS Cognito` | `AWS Lambda` | `AWS SES` | `Google Geofence` | `MUI` | `Blender` | `Maya` | `Machine Learning`
 
----
 
-## 🌟 Featured Projects
-
-🔬 [**MAGICALDB**](http://www.manjarilab.com/databases/magicaldb) – Gene interaction platform (23M+ interactions)
-
-🎓 [**FDP on Design Thinking**](https://srkrec.edu.in/atalfdp2023/) – Faculty training platform
-
-🎾 [**Bhimavaram Tennis Tournament**](https://bhimavaramtennis.com/) – Tournament scheduling and live score updates
-
-📘 [**Learning Guide for Students**](https://csd27.ct.ws/CSD) – Academic resource portal
-
-🎮 [**Free Fire College Fest Website**](http://srkrec.edu.in/sigma/freefire24) – Fest registration and event hub
-
----
 
 ## 📜 Certificates
 
