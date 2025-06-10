@@ -4,9 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Tech+Event+Organizer" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/github/followers/BTejesh27?label=Followers&style=social" alt="GitHub followers" />
-</div>
+
 
 ---
 
