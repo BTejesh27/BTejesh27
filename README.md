@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hi there, I'm Venkata Satya Tejesh Budde
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Inter+@Bluconn;Full-Stack+Developer;Inter+@Bluconn;Problem+Solver;Inter+@Bluconn;Tech+Event+Organizer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Software+Intern+@Bluconn;Full-Stack+Developer;Inter+@Bluconn;Problem+Solver;Inter+@Bluconn;Tech+Event+Organizer" alt="Typing SVG" />
 </div>
 
 
